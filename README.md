@@ -1,5 +1,7 @@
 # Kodluyoruz İlk Repo
 
+[PATİKA PROFİLİM](https://app.patika.dev/salingtor)
+
 Bu repo [Kodluyoruz](https://koduluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
